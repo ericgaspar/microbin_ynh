@@ -10,7 +10,7 @@ Environment="MICROBIN_ADMIN_USERNAME=__ADMIN__"
 Environment="MICROBIN_ADMIN_PASSWORD=__PASSWORD__"
 Environment="MICROBIN_PORT=__PORT__"
 Environment="MICROBIN_BIND=127.0.0.1"
-Environment="MICROBIN_PUBLIC_PATH=https://__DOMAIN____PATH__"
+# Environment="MICROBIN_PUBLIC_PATH=https://__DOMAIN__"
 # Environment="MICROBIN_SHORT_PATH=https://short.net"
 Environment="MICROBIN_DATA_DIR=__DATA_DIR__
 Environment="MICROBIN_JSON_DB=false"
