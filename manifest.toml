@@ -4,8 +4,8 @@ packaging_format = 2
 
 id = "microbin"
 name = "Microbin"
-description.en = "Explain in *a few (10~15) words* the purpose of the app or what it actually does (it is meant to give a rough idea to users browsing a catalog of 100+ apps)"
-description.fr = "Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)"
+description.en = "Configurable file-sharing and URL shortening web app"
+description.fr = "Application Web sécurisée et configurable de partage de fichiers et de raccourcissement d'URL"
 
 version = "2.0.4~ynh1"
 
@@ -15,7 +15,6 @@ maintainers = ["eric_G"]
 license = "BSD-3-Clause"
 website = "https://microbin.eu/"
 demo = "https://pub.microbin.eu/"
-admindoc = "https://yunohost.org/packaging_apps"
 code = "https://github.com/szabodanika/microbin"
 
 [integration]

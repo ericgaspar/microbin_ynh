@@ -6,7 +6,6 @@ After=network.target
 Type=simple
 User=__APP__
 Group=__APP__
-
 Environment="MICROBIN_ADMIN_USERNAME=__ADMIN__"
 Environment="MICROBIN_ADMIN_PASSWORD=__PASSWORD__"
 Environment="MICROBIN_PORT=__PORT__"
