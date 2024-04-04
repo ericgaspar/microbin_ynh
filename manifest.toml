@@ -16,6 +16,7 @@ license = "BSD-3-Clause"
 website = "https://microbin.eu/"
 demo = "https://pub.microbin.eu/"
 code = "https://github.com/szabodanika/microbin"
+fund = "https://ko-fi.com/dani_sz"
 
 [integration]
 yunohost = ">= 11.2"
